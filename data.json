@@ -6,7 +6,7 @@
     "email": "johndoe@example.com",
     "location": "New York, USA",
     "bio": "Software developer, tech enthusiast.",
-    "image": "/images/image1.png"
+    "image": "https://raw.githubusercontent.com/ArnoldT01/mock-user-api/refs/heads/main/images/image1.png"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "email": "janesmith@example.com",
     "location": "London, UK",
     "bio": "UX designer, traveler, and coffee lover.",
-    "image": "/images/image1.png"
+    "image": "https://raw.githubusercontent.com/ArnoldT01/mock-user-api/refs/heads/main/images/image1.png"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "email": "alicej@example.com",
     "location": "Toronto, Canada",
     "bio": "Data scientist, coding geek, and gamer.",
-    "image": "/images/image1.png"
+    "image": "https://raw.githubusercontent.com/ArnoldT01/mock-user-api/refs/heads/main/images/image1.png"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "email": "bobbrown@example.com",
     "location": "Sydney, Australia",
     "bio": "Web developer and open-source advocate.",
-    "image": "/images/image1.png"
+    "image": "https://raw.githubusercontent.com/ArnoldT01/mock-user-api/refs/heads/main/images/image1.png"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "email": "charlied@example.com",
     "location": "Berlin, Germany",
     "bio": "Cloud architect and DevOps enthusiast.",
-    "image": "/images/image1.png"
+    "image": "https://raw.githubusercontent.com/ArnoldT01/mock-user-api/refs/heads/main/images/image1.png"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "email": "dianalee@example.com",
     "location": "Seoul, South Korea",
     "bio": "Full-stack developer and tech mentor.",
-    "image": "/images/image1.png"
+    "image": "https://raw.githubusercontent.com/ArnoldT01/mock-user-api/refs/heads/main/images/image1.png"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "email": "edwardh@example.com",
     "location": "San Francisco, USA",
     "bio": "Product manager and startup founder.",
-    "image": "/images/image1.png"
+    "image": "https://raw.githubusercontent.com/ArnoldT01/mock-user-api/refs/heads/main/images/image1.png"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "email": "fionamartinez@example.com",
     "location": "Madrid, Spain",
     "bio": "Digital marketer and creative strategist.",
-    "image": "/images/image1.png"
+    "image": "https://raw.githubusercontent.com/ArnoldT01/mock-user-api/refs/heads/main/images/image1.png"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "email": "georgewilson@example.com",
     "location": "Paris, France",
     "bio": "Mobile developer, sports enthusiast.",
-    "image": "/images/image1.png"
+    "image": "https://raw.githubusercontent.com/ArnoldT01/mock-user-api/refs/heads/main/images/image1.png"
   },
   {
     "id": 10,
@@ -87,6 +87,6 @@
     "email": "hannahclark@example.com",
     "location": "Los Angeles, USA",
     "bio": "AI researcher and writer.",
-    "image": "/images/image1.png"
+    "image": "https://raw.githubusercontent.com/ArnoldT01/mock-user-api/refs/heads/main/images/image1.png"
   }
 ]
