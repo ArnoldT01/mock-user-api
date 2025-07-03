@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "username": "johndoe",
+    "email": "johndoe@example.com",
+    "location": "New York, USA",
+    "bio": "Software developer, tech enthusiast."
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "username": "janesmith",
+    "email": "janesmith@example.com",
+    "location": "London, UK",
+    "bio": "UX designer, traveler, and coffee lover."
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "username": "alicej",
+    "email": "alicej@example.com",
+    "location": "Toronto, Canada",
+    "bio": "Data scientist, coding geek, and gamer."
+  },
+  {
+    "id": 4,
+    "name": "Bob Brown",
+    "username": "bobbrown",
+    "email": "bobbrown@example.com",
+    "location": "Sydney, Australia",
+    "bio": "Web developer and open-source advocate."
+  },
+  {
+    "id": 5,
+    "name": "Charlie Davis",
+    "username": "charlied",
+    "email": "charlied@example.com",
+    "location": "Berlin, Germany",
+    "bio": "Cloud architect and DevOps enthusiast."
+  },
+  {
+    "id": 6,
+    "name": "Diana Lee",
+    "username": "dianalee",
+    "email": "dianalee@example.com",
+    "location": "Seoul, South Korea",
+    "bio": "Full-stack developer and tech mentor."
+  },
+  {
+    "id": 7,
+    "name": "Edward Harris",
+    "username": "edwardh",
+    "email": "edwardh@example.com",
+    "location": "San Francisco, USA",
+    "bio": "Product manager and startup founder."
+  },
+  {
+    "id": 8,
+    "name": "Fiona Martinez",
+    "username": "fionamartinez",
+    "email": "fionamartinez@example.com",
+    "location": "Madrid, Spain",
+    "bio": "Digital marketer and creative strategist."
+  },
+  {
+    "id": 9,
+    "name": "George Wilson",
+    "username": "georgewilson",
+    "email": "georgewilson@example.com",
+    "location": "Paris, France",
+    "bio": "Mobile developer, sports enthusiast."
+  },
+  {
+    "id": 10,
+    "name": "Hannah Clark",
+    "username": "hannahclark",
+    "email": "hannahclark@example.com",
+    "location": "Los Angeles, USA",
+    "bio": "AI researcher and writer."
+  }
+]
